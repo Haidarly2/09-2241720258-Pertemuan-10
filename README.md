@@ -15,7 +15,7 @@
 ## **Praktikum 1**
 
 ### Hasil Praktikum 1
-<![alt](assets/)>
+<![alt](assets/01.gif)>
 
 ### Tugas Praktikum 1
 
@@ -30,7 +30,7 @@
 > 2. Optimisasi: Konstanta memungkinkan compiler untuk melakukan optimisasi yang lebih baik, karena compiler tahu bahwa nilai tersebut tidak akan berubah selama runtime.
 
 3. Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
-> <![alt](assets/)>
+> <![alt](assets/02.gif)>
 
 4. Apa kegunaan method pada Langkah 11 dan 13 dalam lifecyle state ?
 > - Method pada Langkah 11 dan 13 digunakan untuk mengelola perubahan state aplikasi. Method ini biasanya digunakan untuk:
@@ -43,7 +43,7 @@
 ## **Praktikum 2**
 
 ### Hasil Praktikum 2
-<![alt](assets/)>
+<![alt](assets/03.gif)>
 
 ### Tugas Praktikum 2
 
@@ -65,12 +65,12 @@
 > - Efisiensi: Getter hanya dihitung saat diakses, sehingga tidak ada overhead memori tambahan untuk menyimpan nilai yang mungkin tidak selalu diperlukan.
 
 3. Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
-> <![alt](assets/)>
+> <![alt](assets/03.gif)>
 
 ## **Praktikum 3**
 
 ### Hasil Praktikum 3
-<![alt](assets/)>
+<![alt](assets/04.gif)>
 
 ### Tugas Praktikum 3
 
@@ -80,4 +80,4 @@
 > Perbedaan utama antara dua tampilan ini adalah pada struktur layout dan komponen-komponen yang digunakan untuk membangun tampilan yang lebih aman dan terorganisir pada layar setelah Navigator.push.
 
 2. Lakukan capture hasil dari Langkah 14 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
-> <![alt](assets/)>
+> <![alt](assets/04.gif)>
